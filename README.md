@@ -101,8 +101,6 @@ LeCat.Ai 是一个功能强大的 AI 助手应用，支持多种 AI 模型和工
    - [ ] 提供 API 服务
    - [ ] 建立开发者社区
 
-```
-
 > 下图展示了 LeCat.Ai 的 界面预览：
 
 ![Chat 界面](./screenshot_1.jpg)
@@ -110,4 +108,3 @@ LeCat.Ai 是一个功能强大的 AI 助手应用，支持多种 AI 模型和工
 ![多 Agent 支持](./screenshot_2.jpg)
 
 ![Tools & MCP Servers 配置界面](./screenshot_3.jpg)
-```
